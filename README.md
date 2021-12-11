@@ -1,2 +1,1 @@
-# NinetailsBuilds
-Ninetails builds for Windows x64
+general-purpose repository
